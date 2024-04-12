@@ -7,4 +7,5 @@ This project focuses on optimizing the production quantities and pricing strateg
 **Algorithms Used**
 
 **Local Search:** Iteratively adjusts filling quantities and prices to find revenue-maximizing solutions within the given constraints.
+
 **Threshold Accepting (TA):** Similar to Local Search but includes a mechanism to occasionally accept worse solutions to avoid local optima, enhancing the potential to find better overall solutions.
